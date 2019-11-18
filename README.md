@@ -1,4 +1,4 @@
-# Prueba de git. 
+# git
 
 ## Comandos. 
 
