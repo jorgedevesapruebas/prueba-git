@@ -8,7 +8,6 @@
 git add .
 git commit -m "Texto"
 git push
-
 ```
 
 ### Descarga de archivos.
@@ -17,7 +16,6 @@ git push
 git add .
 git commit -m "Texto"
 git pull
-
 ```
 
 ### clonar repositorio
@@ -25,7 +23,6 @@ git pull
 
 ```
 git clone [url de repositorio]
-
 ```
 
 ### Ramas
