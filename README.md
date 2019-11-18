@@ -1,9 +1,21 @@
-# Archivo creado en github. 
+# Prueba de git. 
 
-## Prueba 1
+## Comandos. 
 
+### Subida de archivos. 
 
 ```
-Hola mundo
+git add .
+git commit -m "Texto"
+git push
+
+```
+
+### Descarga de archivos.
+
+```
+git add .
+git commit -m "Texto"
+git pull
 
 ```
