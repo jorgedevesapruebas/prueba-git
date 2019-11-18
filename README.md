@@ -38,3 +38,11 @@ git clone [url de repositorio]
 - git branch -d borra una rama local. 
 - git push --delete (-d) origin [nombre de la rama]: borra la rama en remote. 
 ```
+
+### merge
+
+Mezclando ramas. 
+
+```
+git merge [nomre de la rama]: mezcla en la rama actual la rama que queramos. 
+```
