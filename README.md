@@ -1,6 +1,6 @@
 # git
 
-## Comandos. 
+## Comandos: 
 
 ### Subida de archivos. 
 
