@@ -19,3 +19,11 @@ git commit -m "Texto"
 git pull
 
 ```
+
+### clonar repo
+
+
+```
+git clone [url de repositorio]
+
+```
